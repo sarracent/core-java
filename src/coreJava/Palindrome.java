@@ -1,7 +1,7 @@
 package coreJava;
 
 public class Palindrome {
-	
+	//hola mundo
 	public static boolean isPalindrome(String str) {
 		if (str == null)
 			return false;
